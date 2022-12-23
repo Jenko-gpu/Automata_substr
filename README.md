@@ -1,5 +1,5 @@
 # Automata_substr
-
+# Талхин Марсель КН-101
 
 
 Usage:
